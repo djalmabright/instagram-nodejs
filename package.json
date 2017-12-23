@@ -8,7 +8,8 @@
   "description": "Auth and get followers on instagram with nodejs",
   "version": "0.2.8",
   "main": "instagram.js",
-  "scripts": {
+  "scripts": { 
+    "start": "node instagram.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
